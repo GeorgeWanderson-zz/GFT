@@ -1,0 +1,16 @@
+C:\Users\geowa\Desktop\Questao2\bin\Debug\net5.0\Questao2.exe
+C:\Users\geowa\Desktop\Questao2\bin\Debug\net5.0\Questao2.deps.json
+C:\Users\geowa\Desktop\Questao2\bin\Debug\net5.0\Questao2.runtimeconfig.json
+C:\Users\geowa\Desktop\Questao2\bin\Debug\net5.0\Questao2.runtimeconfig.dev.json
+C:\Users\geowa\Desktop\Questao2\bin\Debug\net5.0\Questao2.dll
+C:\Users\geowa\Desktop\Questao2\bin\Debug\net5.0\ref\Questao2.dll
+C:\Users\geowa\Desktop\Questao2\bin\Debug\net5.0\Questao2.pdb
+C:\Users\geowa\Desktop\Questao2\obj\Debug\net5.0\Questao2.csproj.AssemblyReference.cache
+C:\Users\geowa\Desktop\Questao2\obj\Debug\net5.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geowa\Desktop\Questao2\obj\Debug\net5.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\geowa\Desktop\Questao2\obj\Debug\net5.0\Questao2.AssemblyInfo.cs
+C:\Users\geowa\Desktop\Questao2\obj\Debug\net5.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\geowa\Desktop\Questao2\obj\Debug\net5.0\Questao2.dll
+C:\Users\geowa\Desktop\Questao2\obj\Debug\net5.0\ref\Questao2.dll
+C:\Users\geowa\Desktop\Questao2\obj\Debug\net5.0\Questao2.pdb
+C:\Users\geowa\Desktop\Questao2\obj\Debug\net5.0\Questao2.genruntimeconfig.cache
